@@ -1,0 +1,15 @@
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\bin\Debug\net6.0\Eight-Queens-Problem.exe
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\bin\Debug\net6.0\Eight-Queens-Problem.deps.json
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\bin\Debug\net6.0\Eight-Queens-Problem.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\bin\Debug\net6.0\Eight-Queens-Problem.dll
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\bin\Debug\net6.0\Eight-Queens-Problem.pdb
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.dll
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\refint\Eight-Queens-Problem.dll
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.pdb
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\Eight-Queens-Problem.genruntimeconfig.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Eight-Queens-Problem\obj\Debug\net6.0\ref\Eight-Queens-Problem.dll
