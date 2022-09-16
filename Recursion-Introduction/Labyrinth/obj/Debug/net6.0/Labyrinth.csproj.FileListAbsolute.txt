@@ -1,0 +1,15 @@
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\bin\Debug\net6.0\Labyrinth.exe
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\bin\Debug\net6.0\Labyrinth.deps.json
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\bin\Debug\net6.0\Labyrinth.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\bin\Debug\net6.0\Labyrinth.dll
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\bin\Debug\net6.0\Labyrinth.pdb
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.dll
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\refint\Labyrinth.dll
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.pdb
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\Labyrinth.genruntimeconfig.cache
+C:\Users\saske\Documents\GitHub\Data-Structures-Fundamentals\Recursion-Introduction\Labyrinth\obj\Debug\net6.0\ref\Labyrinth.dll
